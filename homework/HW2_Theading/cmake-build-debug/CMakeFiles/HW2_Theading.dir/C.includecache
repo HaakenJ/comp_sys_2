@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Haake/Documents/seattle_u_courses/comp_sys_2/homework/HW2_Theading/main.c
+stdio.h
+-
+pthread.h
+-
+
